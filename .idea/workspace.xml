@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe54f8-ed38-49a4-a8cf-2f23678c126d" name="Default Changelist" comment="" />
+    <list default="true" id="dafe54f8-ed38-49a4-a8cf-2f23678c126d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SpigotProject-s" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
   </component>
   <component name="ProjectId" id="1VdLQsTOqdGO9IJsclNvaoLW7AI" />
@@ -37,7 +39,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -84,21 +86,25 @@
     </state>
     <state x="510" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1304.768@62.0.1304.768" timestamp="1579962488880" />
     <state x="511" y="244" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/64.0.1302.768@64.0.1302.768" timestamp="1579898395923" />
+    <state x="347" y="40" width="691" height="728" key="CommitChangelistDialog2" timestamp="1579982688611">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="347" y="40" width="691" height="728" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1579982688611" />
     <state x="495" y="126" key="FileChooserDialogImpl" timestamp="1579898362843">
       <screen x="64" y="0" width="1302" height="768" />
     </state>
     <state x="494" y="126" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1578364904785" />
     <state x="495" y="126" key="FileChooserDialogImpl/64.0.1302.768@64.0.1302.768" timestamp="1579898362843" />
-    <state x="217" y="27" key="SettingsEditor" timestamp="1579898365639">
-      <screen x="64" y="0" width="1302" height="768" />
-    </state>
-    <state x="215" y="27" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1578365746060" />
-    <state x="217" y="27" key="SettingsEditor/64.0.1302.768@64.0.1302.768" timestamp="1579898365639" />
-    <state x="218" y="27" key="SettingsEditor/65.0.1301.768@65.0.1301.768" timestamp="1579748346270" />
-    <state x="415" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579979617895">
+    <state x="215" y="0" key="SettingsEditor" timestamp="1579982665510">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="415" y="209" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1579979617895" />
+    <state x="215" y="0" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1579982665510" />
+    <state x="217" y="27" key="SettingsEditor/64.0.1302.768@64.0.1302.768" timestamp="1579898365639" />
+    <state x="218" y="27" key="SettingsEditor/65.0.1301.768@65.0.1301.768" timestamp="1579748346270" />
+    <state x="415" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579982553069">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="415" y="209" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1579982553069" />
     <state x="418" y="209" key="com.intellij.ide.util.TipDialog/64.0.1302.768@64.0.1302.768" timestamp="1579895860115" />
     <state x="419" y="209" key="com.intellij.ide.util.TipDialog/65.0.1301.768@65.0.1301.768" timestamp="1579748298189" />
     <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1579918932314">

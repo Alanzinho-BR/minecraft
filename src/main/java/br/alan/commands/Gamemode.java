@@ -19,6 +19,7 @@ public class Gamemode implements CommandExecutor {
                 if(p.getGameMode() == GameMode.CREATIVE){
                     p.sendMessage("§aModo alterado para §2SOBREVIVENCIA");
                     p.setGameMode(GameMode.SURVIVAL);
+                    System.out.println("Codigo atualizado ");
                     p.getWorld().playSound(p.getLocation(), Sound.BLOCK_ANVIL_PLACE, 1,1 );
                 } else {
                     p.getWorld().playSound(p.getLocation(), Sound.BLOCK_ANVIL_PLACE, 1,1 );
