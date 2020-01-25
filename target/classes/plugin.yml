@@ -1,0 +1,12 @@
+name: AlanzinhoBR
+author: AlanzinhoBR
+version: 1.0
+main: br.alan.Main
+commands:
+  gm:
+  puta:
+  carteira:
+  tag:
+  gui:
+  entidade:
+  npc:

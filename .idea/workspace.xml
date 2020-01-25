@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Plugin1.12.2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dafe54f8-ed38-49a4-a8cf-2f23678c126d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SpigotProject-s" />
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+  </component>
+  <component name="ProjectId" id="1VdLQsTOqdGO9IJsclNvaoLW7AI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Servidor/plugins" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dafe54f8-ed38-49a4-a8cf-2f23678c126d" name="Default Changelist" comment="" />
+      <created>1577578013156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577578013156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="43" key="#Project_Structure" timestamp="1579897000982">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="306" y="43" key="#Project_Structure/62.0.1304.768@62.0.1304.768" timestamp="1578364930190" />
+    <state x="308" y="43" key="#Project_Structure/64.0.1302.768@64.0.1302.768" timestamp="1579897000982" />
+    <state x="519" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1579962011284">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="519" y="86" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1579962011284" />
+    <state x="520" y="86" key="#com.intellij.ide.util.MemberChooser/64.0.1302.768@64.0.1302.768" timestamp="1579898181140" />
+    <state x="437" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578364969279">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="437" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/62.0.1304.768@62.0.1304.768" timestamp="1578364969279" />
+    <state x="510" y="244" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579962488880">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="510" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/62.0.1304.768@62.0.1304.768" timestamp="1579962488880" />
+    <state x="511" y="244" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/64.0.1302.768@64.0.1302.768" timestamp="1579898395923" />
+    <state x="495" y="126" key="FileChooserDialogImpl" timestamp="1579898362843">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="494" y="126" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1578364904785" />
+    <state x="495" y="126" key="FileChooserDialogImpl/64.0.1302.768@64.0.1302.768" timestamp="1579898362843" />
+    <state x="217" y="27" key="SettingsEditor" timestamp="1579898365639">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="215" y="27" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1578365746060" />
+    <state x="217" y="27" key="SettingsEditor/64.0.1302.768@64.0.1302.768" timestamp="1579898365639" />
+    <state x="218" y="27" key="SettingsEditor/65.0.1301.768@65.0.1301.768" timestamp="1579748346270" />
+    <state x="415" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579979617895">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="415" y="209" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1579979617895" />
+    <state x="418" y="209" key="com.intellij.ide.util.TipDialog/64.0.1302.768@64.0.1302.768" timestamp="1579895860115" />
+    <state x="419" y="209" key="com.intellij.ide.util.TipDialog/65.0.1301.768@65.0.1301.768" timestamp="1579748298189" />
+    <state x="0" y="0" width="607" height="768" key="find.popup" timestamp="1579918932314">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="0" y="0" width="607" height="768" key="find.popup/62.0.1304.768@62.0.1304.768" timestamp="1579918932314" />
+    <state x="370" y="172" key="run.anything.popup" timestamp="1579919091803">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="370" y="172" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1579919091803" />
+    <state x="372" y="172" key="run.anything.popup/64.0.1302.768@64.0.1302.768" timestamp="1579899237536" />
+    <state x="376" y="89" width="674" height="678" key="search.everywhere.popup" timestamp="1579963170784">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="376" y="89" width="674" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1579963170784" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/64.0.1302.768@64.0.1302.768" timestamp="1579898253123" />
+  </component>
+</project>
